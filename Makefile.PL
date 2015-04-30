@@ -11,7 +11,7 @@ WriteMakefile (
         'Salvation::Method::Signatures' => '0.02',
         'Salvation::AnyNotify::Plugin::Daemon' => 0,
         'Salvation::AnyNotify::Plugin::Server' => 0,
-        'Salvation::AnyNotify' => '0.1',
+        'Salvation::AnyNotify' => '0.01',
         'URI' => 0,
         'LWP::Simple' => 0,
     },
